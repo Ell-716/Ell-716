@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-<!--
-**Ell-716/Ell-716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi, I’m currently learning Software Engineering at a Bootcamp!
-🔧 My focus is on Python, HTML, and Object-Oriented Programming.
-🚀 Up next: Flask, Databases, and JavaScript.
-📚 Passionate about building practical, real-world applications and expanding my coding skills. 
+- 🤓 I’m currently learning Software Engineering at a Bootcamp!
+- 🔧 My focus is on Python, HTML, and Object-Oriented Programming.
+- 🚀 Up next: Flask, Databases, and JavaScript.
+- 📚 Passionate about building practical, real-world applications and expanding my coding skills. 
 
 
 ### 📫 Let's Connect
