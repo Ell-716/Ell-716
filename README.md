@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Elena
 
 - 🤓 I’m currently learning Software Engineering at a Bootcamp!
 - 🔧 My focus is on Python, HTML, and Object-Oriented Programming.
