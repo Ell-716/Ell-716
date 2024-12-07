@@ -19,8 +19,8 @@ Let's connect and inspire each other!
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ell-716&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marticliment&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></p>
 
 
 ## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
