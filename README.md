@@ -20,8 +20,8 @@ Let's connect and inspire each other!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ell-716&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" width="400px" height="200px"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="400px" height="200px"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=ell-716&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" width="400px"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" width="360px"></img>
 </p>
 
 
