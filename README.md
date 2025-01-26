@@ -16,6 +16,9 @@ Let's connect and inspire each other!
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=transformers&logoColor=A8B9CC) ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=A8B9CC)
+![HuggingFace](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=A8B9CC) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=A8B9CC) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC) 
 
 ## 📊 GitHub Stats
 
