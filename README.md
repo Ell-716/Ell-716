@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Elena
 
-- 🤓 I’m currently learning Software Engineering at a Bootcamp!
-- 🔧 My focus is on Python, OOP, Flask and Databases.
-- 🚀 Up next: AI Engineering.
-- 📚 Passionate about building practical, real-world applications and expanding my coding skills. 
+- 🤓 Currently learning AI Engineering at a Bootcamp!
+- 🔧 Focused on Generative AI, LLMs, Prompt Engineering, and Machine Learning.
+- 🚀 Final MVP in progress: Building an AI crypto agent.
+- 📚 Passionate about real-world AI applications and expanding my coding skills.
 
 
 ## 📫 Let's Connect
