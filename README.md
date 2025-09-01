@@ -17,9 +17,18 @@ Let's connect and inspire each other!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ell-716&count_private=true&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="400px"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="360px"></img>
+  <!-- Overall stats (with private commits & PRs included) -->
+  <img src="https://ell-716-github-stats.vercel.app/api?username=ell-716&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark_dimmed&hide_border=false&layout=compact&cache_seconds=1800" width="400px"></img>
+  
+  <!-- Most used languages -->
+  <img src="https://ell-716-github-stats.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="360px"></img>
 </p>
+
+<p align="center">
+  <!-- Extra badge: total PRs, issues, stars -->
+  <img src="https://ell-716-github-stats.vercel.app/api?username=ell-716&count_private=true&show=prs,issues,stars&theme=github_dark_dimmed&hide_border=false&cache_seconds=1800" width="400px"></img>
+</p>
+
 
 
 
