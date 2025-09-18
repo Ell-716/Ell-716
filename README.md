@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Elena
 
-- 🤓 Currently learning AI Engineering at a Bootcamp!
+- 🤓 Currently doing an internship at Webeet!
 - 🔧 Focused on Generative AI, LLMs, Prompt Engineering, and Machine Learning.
 - 🚀 Final MVP in progress: Building an AI crypto agent.
 - 📚 Passionate about real-world AI applications and expanding my coding skills.
