@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Elena
 
-- 🤓 Currently doing an internship at Webeet!
-- 🔧 Focused on Generative AI, LLMs, Prompt Engineering, and Machine Learning.
-- 🚀 Final MVP in progress: Building an AI crypto agent.
-- 📚 Passionate about real-world AI applications and expanding my coding skills.
+- 🚀 Working with GenAI, LLMs, and Python backend tools.
+- 🤖 Creator of BASI — an AI crypto-trading agent.
+- 🌱 Love building practical AI solutions and improving my engineering skills.
+- 💼 Open to job opportunities in AI Engineering and Backend Development.
 
 
 ## 📫 Let's Connect
-I'm always eager to connect with other software engineers, developers, and tech enthusiasts! Whether you'd like to share ideas, collaborate on projects, or just chat about technology, feel free to reach out on [![LinkedIn: Elena Bai](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/).
+I'm always eager to connect with other software and AI engineers, developers, and tech enthusiasts! Whether you'd like to share ideas, collaborate on projects, or just chat about technology, feel free to reach out on [![LinkedIn: Elena Bai](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/).
 Check out my [**portfolio**](https://github.com/Ell-716?tab=repositories) as well. 
 Let's connect and inspire each other!
 
