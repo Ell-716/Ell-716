@@ -67,4 +67,4 @@ Recently completed Software Engineering & AI training in Germany. Passionate abo
 
 ---
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
+## Thank you for visiting my profile! 🌟![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
