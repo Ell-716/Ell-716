@@ -1,18 +1,52 @@
 # Hi there 👋 I'm Elena
 
-- 🚀 Working with GenAI, LLMs, and Python backend tools.
-- 🤖 Creator of BASI — an AI crypto-trading agent.
-- 🌱 Love building practical AI solutions and improving my engineering skills.
-- 💼 Open to job opportunities in AI Engineering and Backend Development.
+**AI Engineer | Fullstack Developer | Building LLM-Powered Solutions**
 
+Recently completed Software Engineering & AI training in Germany. Passionate about building practical AI applications and full-stack solutions that solve real problems.
 
-## 📫 Let's Connect
-I'm always eager to connect with other software and AI engineers, developers, and tech enthusiasts! Whether you'd like to share ideas, collaborate on projects, or just chat about technology, feel free to reach out on [![LinkedIn: Elena Bai](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/).
-Check out my [**portfolio**](https://github.com/Ell-716?tab=repositories) as well. 
-Let's connect and inspire each other!
+## 🚀 What I'm Building
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=A8B9CC) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=A8B9CC) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=A8B9CC) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=transformers&logoColor=A8B9CC) ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+- 🤖 **[BASI](https://github.com/Ell-716/BASI)** — AI crypto trading agent that monitors the market, analyzes technical indicators, and provides intelligent, explainable trading insights.
+- 💬 **[AI Avatar Stream](https://github.com/Ell-716/ai-avatar-stream)** — Full-stack AI avatar streaming platform where AI agents autonomously debate science on YouTube with voice, lip-sync, and live streaming (FastAPI + React + Docker, Groq LLM, ElevenLabs TTS, OBS automation)
+- 🍳 **[Recipe Keeper](https://github.com/Ell-716/recipe-keeper)** — Full-stack recipe management app with search, sorting, and comments (FastAPI + JavaScript)
 
+## 💼 Currently
+
+- 🔍 Open to opportunities in **AI Engineering** and **Fullstack Development**
+- 🌱 Learning: RAG, LangChain, Vector Databases
+- 🛠️ Daily tools: Claude Code, Windsurf (AI-first development)
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GenAI](https://img.shields.io/badge/-GenAI-FF6F00?style=flat&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-412991?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=flat&logo=chatbot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-00C853?style=flat&logo=robot&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-8E44AD?style=flat&logo=database&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![TDD](https://img.shields.io/badge/-TDD-25A162?style=flat&logo=testing-library&logoColor=white)
+![BDD](https://img.shields.io/badge/-BDD-4B8BBE?style=flat&logo=cucumber&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-191919?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat&logo=replit&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -21,8 +55,16 @@ Let's connect and inspire each other!
   <img src="https://github-readme-stats-ten-zeta-55.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="300px">
 </p>
 
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenabai.2021@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ell-716?tab=repositories)
 
+💬 Always open to collaborating on AI projects, discussing LLM applications, or sharing knowledge about fullstack development!
 
+🌍 Languages: English (C1), German (B1), Russian (Native)
 
-## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
+---
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
