@@ -1,16 +1,17 @@
 # Hi there 👋 I'm Elena
 
-**AI Engineer | Fullstack Developer | Building LLM-Powered Solutions**
+**AI Engineer | Fullstack Developer | Building LLM-powered products**
 
-Recently completed Software Engineering & AI training in Germany. Passionate about building practical AI applications and full-stack solutions that solve real problems.
+Recently completed Software Engineering & AI training in Germany.  
+I focus on building practical AI systems — from idea → prototype → deployed product.
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 - 🤖 **[BASI](https://github.com/Ell-716/BASI)** — AI crypto trading agent that monitors the market, analyzes technical indicators, and provides intelligent, explainable trading insights.
 - 💬 **[AI Avatar Stream](https://github.com/Ell-716/ai-avatar-stream)** — Full-stack AI avatar streaming platform where AI agents autonomously debate science on YouTube with voice, lip-sync, and live streaming (FastAPI + React + Docker, Groq LLM, ElevenLabs TTS, OBS automation)
 - 🍳 **[Recipe Keeper](https://github.com/Ell-716/recipe-keeper)** — Full-stack recipe management app with search, sorting, and comments (FastAPI + JavaScript)
 
-## 💼 Currently
+## 💼 Current Focus
 
 - 🔍 Open to opportunities in **AI Engineering** and **Fullstack Development**
 - 🌱 Learning: RAG, LangChain, Vector Databases
@@ -52,10 +53,10 @@ Recently completed Software Engineering & AI training in Germany. Passionate abo
 
 <p align="center">
   <img src="https://github-readme-stats-ten-zeta-55.vercel.app/api?username=ell-716&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&locale=en&hide_border=false" width="400px">
-  <img src="https://github-readme-stats-ten-zeta-55.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="300px">
+  <img src="https://github-readme-stats-ten-zeta-55.vercel.app/api/top-langs/?username=ell-716&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" width="263px">
 </p>
 
-## 📫 Let's Connect
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenabai.2021@gmail.com)
@@ -67,4 +68,4 @@ Recently completed Software Engineering & AI training in Germany. Passionate abo
 
 ---
 
-## Thank you for visiting my profile! 🌟![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
+## Thanks for visiting my profile! 🌟![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ell-716.visitor-badge&format=true)
