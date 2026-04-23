@@ -60,7 +60,7 @@ I focus on building practical AI systems — from idea → prototype → deploye
 
 [![LinkedIn](https://img.shields.io/badge/-Elena%20Bai-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bai-1a9b801b0/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elenabai.2021@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ell-716?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://elena-bai.vercel.app)
 
 💬 Always open to collaborating on AI projects, discussing LLM applications, or sharing knowledge about fullstack development!
 
